@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="FasterBiosculpterPod.Settings">
+		<medicCycleDays>2</medicCycleDays>
+		<bioregenerationCycleDays>2</bioregenerationCycleDays>
+		<ageReversalCycleDays>2</ageReversalCycleDays>
+		<ageReversalDays>300</ageReversalDays>
+		<pleasureCycleDays>2</pleasureCycleDays>
+		<biotuningDurationDays>0</biotuningDurationDays>
+		<workToBuild>28020</workToBuild>
+	</ModSettings>
+</SettingsBlock>

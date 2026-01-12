@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RandomsGeneAssistant.GeneSettings">
+		<backgroundSaturation>0.5</backgroundSaturation>
+		<sellFromGeneBanks>True</sellFromGeneBanks>
+		<ignoredGenes />
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TabulaRasa.TabulaRasaSettings">
+		<raceSpawningSettings>
+			<keys />
+			<values />
+		</raceSpawningSettings>
+		<raceSpawningWeights>
+			<keys />
+			<values />
+		</raceSpawningWeights>
+		<markedAsSeen />
+		<empireHostilityFixedFactions>
+			<keys>
+				<li>PlayerColony</li>
+				<li>PlayerTribe</li>
+				<li>ResearchExpedition</li>
+				<li>GravshipCrew</li>
+				<li>VR_VampireStart</li>
+				<li>VR_ArtificerStart</li>
+				<li>Mechadroids_MechadroidPlayerColony</li>
+				<li>VFEE_NewFamily</li>
+				<li>VQE_NewVaultPlayerFaction</li>
+				<li>VFED_NewSafehaven</li>
+			</keys>
+			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+			</values>
+		</empireHostilityFixedFactions>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="FlushBiotuning.FlushBiotuning_Settings">
+		<flushCycleDuration>0.100000001</flushCycleDuration>
+	</ModSettings>
+</SettingsBlock>
