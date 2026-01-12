@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="GeneFarbication.ModConfigs">
+		<Neutroamine_cost_multiplier>0.5</Neutroamine_cost_multiplier>
+		<Blacklisted_genes />
+	</ModSettings>
+</SettingsBlock>

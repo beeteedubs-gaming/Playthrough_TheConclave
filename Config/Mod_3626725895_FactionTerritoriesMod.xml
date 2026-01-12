@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="FactionTerritories.FactionTerritoriesSettings">
+		<radiusSteps>15</radiusSteps>
+		<variationSteps>0</variationSteps>
+		<factionOverrides />
+		<encounterOverrides />
+		<techLevelMultipliers />
+	</ModSettings>
+</SettingsBlock>

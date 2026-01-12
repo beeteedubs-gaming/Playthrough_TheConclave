@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="BioSculptingPlus.BioSculptingPlusSettings">
+		<BeautyCycleDuration>2</BeautyCycleDuration>
+		<AgeIncreaseCycleEnabled>False</AgeIncreaseCycleEnabled>
+		<AgeIncreaseCycleDuration>2</AgeIncreaseCycleDuration>
+		<AgeIncreaseCycleAgeIncrease>60</AgeIncreaseCycleAgeIncrease>
+		<VoiceCycleDuration>2</VoiceCycleDuration>
+		<ToughCycleDuration>2</ToughCycleDuration>
+		<ImmunityCycleEnabled>False</ImmunityCycleEnabled>
+		<ImmunityCycleDuration>2</ImmunityCycleDuration>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings>
+		<modSettingsPerModId>
+			<keys>
+				<li>vanillaexpanded.vtexe</li>
+				<li>rebuild.cotr.doorsandcorners</li>
+				<li>hlx.ultratechalteredcarbon</li>
+			</keys>
+			<values>
+				<li>
+					<packageID>vanillaexpanded.vtexe</packageID>
+					<patchOperationStates>
+						<keys>
+							<li>VTE_ShuttleTextures</li>
+							<li>VTE_SteelTextures</li>
+							<li>VTE_MealTextures</li>
+						</keys>
+						<values>
+							<li>True</li>
+							<li>False</li>
+							<li>True</li>
+						</values>
+					</patchOperationStates>
+					<patchOperationValues>
+						<keys />
+						<values />
+					</patchOperationValues>
+					<workers>
+						<keys>
+							<li>VanillaTexturesExpanded.VanillaTexturesExpandedSettings</li>
+						</keys>
+						<values>
+							<li Class="VanillaTexturesExpanded.VanillaTexturesExpandedSettings" />
+						</values>
+					</workers>
+				</li>
+				<li>
+					<packageID>rebuild.cotr.doorsandcorners</packageID>
+					<patchOperationStates>
+						<keys>
+							<li>RB_EntitiesCannotOpenSecurityDoors</li>
+							<li>RB_ColonistsDontDropItemsAtDoors</li>
+							<li>RB_SilentDoors</li>
+							<li>RB_SeamlessWallLamps</li>
+							<li>RB_NewWallAtlasTextures_V1</li>
+							<li>RB_NewWallAtlasTextures_V2</li>
+							<li>RB_BarrierWallsDeepWater</li>
+						</keys>
+						<values>
+							<li>True</li>
+							<li>True</li>
+							<li>False</li>
+							<li>True</li>
+							<li>True</li>
+							<li>False</li>
+							<li>False</li>
+						</values>
+					</patchOperationStates>
+					<patchOperationValues>
+						<keys>
+							<li>RB_GrateFloorSpeed</li>
+							<li>RB_WallArmorHealth</li>
+						</keys>
+						<values>
+							<li>10</li>
+							<li>500</li>
+						</values>
+					</patchOperationValues>
+					<workers>
+						<keys>
+							<li>ReBuildDoorsAndCorners.ReBuild_DiagonalWallToggles</li>
+						</keys>
+						<values>
+							<li Class="ReBuildDoorsAndCorners.ReBuild_DiagonalWallToggles">
+								<diagonalWallToggles>
+									<keys>
+										<li>GravshipHull</li>
+									</keys>
+									<values>
+										<li>True</li>
+									</values>
+								</diagonalWallToggles>
+							</li>
+						</values>
+					</workers>
+				</li>
+				<li>
+					<packageID>hlx.ultratechalteredcarbon</packageID>
+					<patchOperationStates>
+						<keys>
+							<li>AC_ChrysalisFullBody</li>
+							<li>AC_NanoStorageDriveResearch</li>
+							<li>AC_StackSpawningPirates</li>
+							<li>AC_StackSpawningAncientSpacer</li>
+							<li>AC_StackSpawningEmpire</li>
+						</keys>
+						<values>
+							<li>False</li>
+							<li>True</li>
+							<li>False</li>
+							<li>True</li>
+							<li>False</li>
+						</values>
+					</patchOperationStates>
+					<patchOperationValues>
+						<keys />
+						<values />
+					</patchOperationValues>
+					<workers>
+						<keys>
+							<li>AlteredCarbon.AlteredCarbonSettingsWorker_General</li>
+							<li>AlteredCarbon.AlteredCarbonSettingsWorker_SleeveGrowing</li>
+							<li>AlteredCarbon.AlteredCarbonSettingsWorker_EditStack</li>
+						</keys>
+						<values>
+							<li Class="AlteredCarbon.AlteredCarbonSettingsWorker_General">
+								<enableStackSpawning>False</enableStackSpawning>
+								<singleUseMentalFuses>False</singleUseMentalFuses>
+								<singleUseMentalFusePop>False</singleUseMentalFusePop>
+							</li>
+							<li Class="AlteredCarbon.AlteredCarbonSettingsWorker_SleeveGrowing">
+								<sleeveGrowingTimeMultiplier>0.5</sleeveGrowingTimeMultiplier>
+								<sleeveGrowingCostMultiplier>0.5</sleeveGrowingCostMultiplier>
+							</li>
+							<li Class="AlteredCarbon.AlteredCarbonSettingsWorker_EditStack">
+								<enableArchostackEditing>True</enableArchostackEditing>
+								<enableStackDegradation>False</enableStackDegradation>
+							</li>
+						</values>
+					</workers>
+				</li>
+			</values>
+		</modSettingsPerModId>
+	</ModSettings>
+</SettingsBlock>

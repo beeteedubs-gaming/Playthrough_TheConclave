@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="NanameWalls.Settings">
+		<meshSettings>
+			<Sandbags>
+				<enabled>False</enabled>
+			</Sandbags>
+			<Barricade>
+				<enabled>True</enabled>
+			</Barricade>
+			<Wall />
+			<Fence>
+				<enabled>True</enabled>
+			</Fence>
+			<GravshipHull />
+			<VR_SteamPipe>
+				<enabled>False</enabled>
+			</VR_SteamPipe>
+			<VR_UndergroundSteamPipe>
+				<enabled>False</enabled>
+			</VR_UndergroundSteamPipe>
+			<VGE_AstrofuelPipe>
+				<enabled>False</enabled>
+			</VGE_AstrofuelPipe>
+			<VGE_HiddenAstrofuelPipe>
+				<enabled>False</enabled>
+			</VGE_HiddenAstrofuelPipe>
+			<VGE_OxygenPipe>
+				<enabled>False</enabled>
+			</VGE_OxygenPipe>
+			<VGE_HiddenOxygenPipe>
+				<enabled>False</enabled>
+			</VGE_HiddenOxygenPipe>
+			<VGE_SolarPanelling>
+				<enabled>False</enabled>
+			</VGE_SolarPanelling>
+			<VFEP_ShortWalls>
+				<enabled>False</enabled>
+			</VFEP_ShortWalls>
+			<VFE_PlanterBox_Tilable>
+				<enabled>False</enabled>
+			</VFE_PlanterBox_Tilable>
+			<VFE_Hydroponics_Tilable>
+				<enabled>False</enabled>
+			</VFE_Hydroponics_Tilable>
+			<VFE_Ecosystem_Tilable>
+				<enabled>False</enabled>
+			</VFE_Ecosystem_Tilable>
+			<VFE_Wallpaper />
+			<VFEArch_FineWall />
+			<VFEArch_LogWall />
+			<VFEArch_ChainlinkFence>
+				<enabled>False</enabled>
+			</VFEArch_ChainlinkFence>
+			<VFEArch_PicketFence>
+				<enabled>False</enabled>
+			</VFEArch_PicketFence>
+			<VFEArch_BrickFence>
+				<enabled>False</enabled>
+			</VFEArch_BrickFence>
+			<VFEArch_InvisibleFence>
+				<enabled>False</enabled>
+			</VFEArch_InvisibleFence>
+			<VFEArch_LowFence>
+				<enabled>False</enabled>
+			</VFEArch_LowFence>
+			<VFEArch_HedgeWall />
+			<VFEArch_ArmoredWall />
+			<Seat_Bench>
+				<enabled>False</enabled>
+			</Seat_Bench>
+			<Table_Counter>
+				<enabled>False</enabled>
+			</Table_Counter>
+			<VFE_LongPlantPot>
+				<enabled>False</enabled>
+			</VFE_LongPlantPot>
+			<VCHE_ChemfuelPipe>
+				<enabled>False</enabled>
+			</VCHE_ChemfuelPipe>
+			<VCHE_UndergroundChemfuelPipe>
+				<enabled>False</enabled>
+			</VCHE_UndergroundChemfuelPipe>
+			<VCHE_DeepchemPipe>
+				<enabled>False</enabled>
+			</VCHE_DeepchemPipe>
+			<VCHE_UndergroundDeepchemPipe>
+				<enabled>False</enabled>
+			</VCHE_UndergroundDeepchemPipe>
+			<AM_AncientFence>
+				<enabled>False</enabled>
+			</AM_AncientFence>
+			<RB_SmoothGravshipHull />
+			<RB_GravshipWindowHull />
+			<RB_GravshipPanoramaHull />
+			<RB_OverwallArmor>
+				<enabled>False</enabled>
+			</RB_OverwallArmor>
+			<RB_RusticWall />
+			<RB_OrnateWall />
+			<RB_ClerestoryWall>
+				<enabled>False</enabled>
+			</RB_ClerestoryWall>
+			<RB_ReinforcedClerestoryWall />
+			<RB_GlassWall>
+				<enabled>False</enabled>
+			</RB_GlassWall>
+			<RB_ReinforcedGlassWall />
+			<RB_CellWall>
+				<enabled>False</enabled>
+			</RB_CellWall>
+			<RB_BarriersWall>
+				<enabled>False</enabled>
+			</RB_BarriersWall>
+			<Oracle_Wallcap>
+				<enabled>False</enabled>
+			</Oracle_Wallcap>
+			<oracle_TireWall />
+			<AP_Hedge_Anima>
+				<enabled>False</enabled>
+			</AP_Hedge_Anima>
+			<AP_Hedge_Gau>
+				<enabled>False</enabled>
+			</AP_Hedge_Gau>
+			<AP_Hedge>
+				<enabled>False</enabled>
+			</AP_Hedge>
+			<AP_Hedge_Flowery>
+				<enabled>False</enabled>
+			</AP_Hedge_Flowery>
+			<AP_Hedge_FloweryTwo>
+				<enabled>False</enabled>
+			</AP_Hedge_FloweryTwo>
+			<AP_Hedge_Ocular>
+				<enabled>False</enabled>
+			</AP_Hedge_Ocular>
+			<AP_LowHedge>
+				<enabled>False</enabled>
+			</AP_LowHedge>
+			<VNPE_NutrientPastePipe>
+				<enabled>False</enabled>
+			</VNPE_NutrientPastePipe>
+			<VNPE_UndergroundNutrientPastePipe>
+				<enabled>False</enabled>
+			</VNPE_UndergroundNutrientPastePipe>
+			<Vin_Embrasure>
+				<enabled>False</enabled>
+			</Vin_Embrasure>
+		</meshSettings>
+	</ModSettings>
+</SettingsBlock>

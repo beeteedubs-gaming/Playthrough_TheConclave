@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ARY_AutomaticStumpChopping.ARYASC_Settings">
+		<ARYASC_enable_cut_stump>True</ARYASC_enable_cut_stump>
+		<ARYASC_enable_cut_blight>True</ARYASC_enable_cut_blight>
+		<ARYASC_enable_visual>True</ARYASC_enable_visual>
+		<ARYASC_enable_AllStumpsChop>True</ARYASC_enable_AllStumpsChop>
+		<ARYASC_enable_FullyGrownTreesChop>True</ARYASC_enable_FullyGrownTreesChop>
+		<ARYASC_enable_FullyGrownCropsChop>True</ARYASC_enable_FullyGrownCropsChop>
+		<ARYASC_enable_messages>False</ARYASC_enable_messages>
+	</ModSettings>
+</SettingsBlock>

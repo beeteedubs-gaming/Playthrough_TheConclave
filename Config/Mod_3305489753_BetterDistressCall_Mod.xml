@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="BetterDistressCall.BetterDistressCall_Settings">
+		<ShamblersPointModifier>1.5</ShamblersPointModifier>
+		<ChimerasPointModifier>1.5</ChimerasPointModifier>
+		<HoraxPointModifier>1.5</HoraxPointModifier>
+		<SightstealersPointModifier>1.5</SightstealersPointModifier>
+		<DevourersPointModifier>1.5</DevourersPointModifier>
+		<GorehulksPointModifier>1.5</GorehulksPointModifier>
+		<MetalhorrorsPointModifier>1.5</MetalhorrorsPointModifier>
+	</ModSettings>
+</SettingsBlock>

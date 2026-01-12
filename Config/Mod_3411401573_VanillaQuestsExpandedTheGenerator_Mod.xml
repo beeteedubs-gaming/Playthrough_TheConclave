@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="VanillaQuestsExpandedTheGenerator.VanillaQuestsExpandedTheGenerator_Settings">
+		<disableNeedForSteamVent>True</disableNeedForSteamVent>
+		<ARCTimersMultiplier>0.5</ARCTimersMultiplier>
+		<ARCFuelMultiplier>0.5</ARCFuelMultiplier>
+	</ModSettings>
+</SettingsBlock>

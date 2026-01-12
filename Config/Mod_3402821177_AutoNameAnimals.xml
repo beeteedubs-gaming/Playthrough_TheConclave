@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="AutoNameAnimals.Settings">
+		<excluded_names />
+	</ModSettings>
+</SettingsBlock>

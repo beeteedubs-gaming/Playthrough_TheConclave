@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="VFED.DesertersSettings">
+		<VisibilityChangePerDay>5</VisibilityChangePerDay>
+		<IntelFromExtraction>5</IntelFromExtraction>
+		<VisibilityFromPillar>5</VisibilityFromPillar>
+		<ResponseTimeMultiplier>2.5</ResponseTimeMultiplier>
+	</ModSettings>
+</SettingsBlock>

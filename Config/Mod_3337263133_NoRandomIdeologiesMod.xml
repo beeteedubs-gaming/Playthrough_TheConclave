@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="NoRandomIdeologies.NoRandomIdeologiesSettings">
+		<PreferedIdeology>
+			<keys>
+				<li>Beggars</li>
+				<li>VR_Construct</li>
+				<li>Entities</li>
+				<li>TribeRoughNeanderthal</li>
+				<li>TribeRough</li>
+				<li>TribeCivil</li>
+				<li>Insect</li>
+				<li>Mechanoid</li>
+				<li>OutlanderRefugee</li>
+				<li>Pilgrims</li>
+				<li>Salvagers</li>
+				<li>BTD_Pirates</li>
+				<li>BTD_Outlander</li>
+				<li>TradersGuild</li>
+			</keys>
+			<values>
+				<li>./RandomSaved</li>
+				<li>./RandomSaved</li>
+				<li>./RandomSaved</li>
+				<li>./RandomSaved</li>
+				<li>./RandomSaved</li>
+				<li>./RandomSaved</li>
+				<li>./RandomSaved</li>
+				<li>./RandomSaved</li>
+				<li>./RandomSaved</li>
+				<li>./RandomSaved</li>
+				<li>./RandomSaved</li>
+				<li>./RandomSaved</li>
+				<li>./RandomSaved</li>
+				<li>./RandomSaved</li>
+			</values>
+		</PreferedIdeology>
+		<FactionIgnore />
+	</ModSettings>
+</SettingsBlock>
